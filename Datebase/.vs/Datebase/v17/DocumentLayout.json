@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "Datebase\\DatabaseManager.cs",
               "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\DatabaseManager.cs",
               "RelativeToolTip": "Datebase\\DatabaseManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAACAZGZmZmYgwGgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T06:28:35.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Product.cs",
               "RelativeDocumentMoniker": "Datebase\\Product.cs",
@@ -63,7 +63,8 @@
               "RelativeToolTip": "Datebase\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T15:45:15.565Z"
+              "WhenOpened": "2024-08-31T15:45:15.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Costomer.cs",
               "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Costomer.cs",
               "RelativeDocumentMoniker": "Datebase\\Costomer.cs",
@@ -104,26 +105,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\User.cs",
               "RelativeDocumentMoniker": "Datebase\\User.cs",
               "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\User.cs",
               "RelativeToolTip": "Datebase\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T15:12:39.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Database.cs",
               "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Database.cs",
               "RelativeDocumentMoniker": "Datebase\\Database.cs",
               "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Database.cs",
               "RelativeToolTip": "Datebase\\Database.cs",
-              "ViewState": "AgIAAAEAAACUMjMzMzMrwBUAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAACUMjMzMzMrwBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T15:08:13.521Z",
               "EditorCaption": ""

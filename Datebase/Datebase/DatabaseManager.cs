@@ -17,23 +17,23 @@ namespace Datebase
         /// </summary>
         /// 
         public string Path { get; set; }
-        public DatabaseManager(string name) { Path = Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.Parent.FullName + "\\" + name }
+        public DatabaseManager(string name) { Path = Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.Parent.FullName + "\\" + name; }
         public DatabaseManager(string name, string path) : this(name) { Path = path; }
         static void Creatdirs(string path, string name)
         {
             string Database = path + "\\" + name;
-            string[] dirs = { "", "\\Users", "\\Costomers", "\\Seller", "\\Products", "\\Comments" };
+            string[] dirs = { "", "\\Costomers", "\\Seller", "\\Products", "\\Comments" };
             for (int i = 0; i < dirs.Length; i++)
             {
-                string s = Database;
-                if (i < 1)
+                Directory.CreateDirectory(Database + dirs[i] + Console.ReadLine());
+                if (i > 0)
                 {
-                    s += dirs[i];
-                    Directory.CreateDirectory(s);
-                    using (FileStream fs = File.Create(s + "\\counter.txt")) { }
-                    using (StreamWriter streamWriter = new StreamWriter(s + "\\counter.txt")) { streamWriter.Write("0"); }
+                    using (FileStream fs = File.Create(Database + dirs[i] + @"\counter.txt")) 
+                    {
+                        using (StreamWriter streamWriter = new StreamWriter(Database + dirs[i] + @"\counter.txt"))
+                        { streamWriter.WriteLine("0"); }
+                    }
                 }
-                else Directory.CreateDirectory(s);
             }
         }
         /// <summary>
@@ -59,6 +59,49 @@ namespace Datebase
             string path = Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).FullName;
             Creatdirs(path, name);
             return path + "\\" + name;
+        }
+        /// <summary>
+        /// هي الدالة من شان تنسخ الملفات من أي مكان علكمبيوتر لأي مكان تاني، راح نستخدمها من شان نسخ الملفات من الجمبيوتر يلي عنا لقاعدة البيانات تبعنا.
+        /// </summary>
+        /// <param name="sourceFIlePath">الملف يلي بدنا ننسخو</param>
+        /// <param name="path">المكان يلي بدي أنسخو لعندو</param>
+        public void AddFile(string sourceFIlePath, string path)
+        {
+            string last = ".";
+            {
+                string[] s = path.Split("\\");
+                string[] ss = s[s.Length - 1].Split(".");
+                last += ss[ss.Length - 1];
+            }
+            File.Copy(sourceFIlePath, path + last);
+        }
+        /// <summary>
+        /// الدالة المستخدمة لإضافة مستخدم للقاعدة.
+        /// بالنسبة للملف النصي للمستخدم وللتاجر زللمنتج راح يكون ترتيب السطور هو أنو أول سطر للاسم والتاني للعنوان.
+        /// </summary>
+        /// <param name="username">اسم المستخدم</param>
+        /// <param name="type">نوع المستخدم إذا كان مستخدم عادي أو تاجر
+        /// للسنتخدم العادي بتكتب : Costomers
+        /// للتاجر بتكتب Seller
+        /// </param>
+        public void AddUserInfo(string username, string type)
+        {
+            string id = File.ReadLines(Path + "\\" + type + "\\counter.txt").First();
+            Directory.CreateDirectory(Path + "\\" + type + "\\" + id);
+            using (FileStream fs = File.Create(Path + "\\" + type + "\\" + id + "info.txt")) { }
+            using (FileStream fs = File.Create(Path + "\\" + type + "\\" + id + "comments.txt")) { }
+            using (StreamWriter streamWriter = new StreamWriter(Path + "\\" + type + "\\" + id + "info.txt"))
+            {
+                streamWriter.WriteLine(username);
+                streamWriter.WriteLine(id);
+            }
+            string[] s = { id };
+            File.WriteAllLines(Path + "\\" + type + "\\counter.txt", s);
+        }
+        public void AddUserInfo(string username, string type, string selfie)
+        {
+            AddUserInfo(username, type);
+            AddFile(selfie, Path +  "\\" + type + "\\" + (int.Parse(File.ReadLines(Path + "\\" + type + "\\counter.txt").First()) - 1));
         }
     }
 }

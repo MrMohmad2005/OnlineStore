@@ -11,7 +11,7 @@ namespace Datebase
     {
         public User(string name, string id) : base(name, id)
         {
-            Path += "\\Users";
+            
         }
     }
 }
