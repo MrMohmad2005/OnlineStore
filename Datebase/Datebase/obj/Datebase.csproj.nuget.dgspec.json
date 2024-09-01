@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Datebase.csproj": {}
+    "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Datebase.csproj": {}
   },
   "projects": {
-    "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Datebase.csproj": {
+    "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Datebase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Datebase.csproj",
+        "projectUniqueName": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Datebase.csproj",
         "projectName": "Datebase",
-        "projectPath": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Datebase.csproj",
+        "projectPath": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Datebase.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\obj\\",
+        "outputPath": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

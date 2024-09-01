@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\",
+  "WorkspaceRootPath": "A:\\Git Hub\\OnlineStore\\Datebase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\costomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\products_comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\products_comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\microsoft visual studio 2022\\projects\\datebase\\datebase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|a:\\git hub\\onlinestore\\datebase\\datebase\\products_comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A804DFB-6732-4771-ABC1-BD451061F46A}|Datebase\\Datebase.csproj|solutionrelative:datebase\\products_comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,22 +44,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\DatabaseManager.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "Datebase\\DatabaseManager.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\DatabaseManager.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\DatabaseManager.cs",
               "RelativeToolTip": "Datebase\\DatabaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T06:28:35.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Product.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Product.cs",
               "RelativeDocumentMoniker": "Datebase\\Product.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Product.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Product.cs",
               "RelativeToolTip": "Datebase\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Seller.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Seller.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Seller.cs",
               "RelativeDocumentMoniker": "Datebase\\Seller.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Seller.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Seller.cs",
               "RelativeToolTip": "Datebase\\Seller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,23 +79,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Costomer.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Costomer.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Costomer.cs",
               "RelativeDocumentMoniker": "Datebase\\Costomer.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Costomer.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Costomer.cs",
               "RelativeToolTip": "Datebase\\Costomer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T15:39:59.54Z"
+              "WhenOpened": "2024-08-31T15:39:59.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Products_Comments.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Products_Comments.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Products_Comments.cs",
               "RelativeDocumentMoniker": "Datebase\\Products_Comments.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Products_Comments.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Products_Comments.cs",
               "RelativeToolTip": "Datebase\\Products_Comments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,25 +104,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\User.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\User.cs",
               "RelativeDocumentMoniker": "Datebase\\User.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\User.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\User.cs",
               "RelativeToolTip": "Datebase\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T15:12:39.909Z"
+              "WhenOpened": "2024-08-31T15:12:39.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Database.cs",
-              "DocumentMoniker": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Database.cs",
+              "DocumentMoniker": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Database.cs",
               "RelativeDocumentMoniker": "Datebase\\Database.cs",
-              "ToolTip": "A:\\microsoft visual studio 2022\\Projects\\Datebase\\Datebase\\Database.cs",
+              "ToolTip": "A:\\Git Hub\\OnlineStore\\Datebase\\Datebase\\Database.cs",
               "RelativeToolTip": "Datebase\\Database.cs",
-              "ViewState": "AgIAAAEAAACUMjMzMzMrwBkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAACUMjMzMzMrwBUAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T15:08:13.521Z",
               "EditorCaption": ""
